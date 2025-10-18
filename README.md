@@ -47,4 +47,6 @@ API Services - Clean data fetching
 
 Environment Config - Secure deployment
 
-### 🔗 *Live Demo*
+### 🔗 *Local Deployment**
+*🎯 Main Application:* http://localhost:3000/
+
